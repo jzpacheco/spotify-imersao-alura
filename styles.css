@@ -44,3 +44,12 @@ body{
     font-size: 14px;
     font-family: "DM Sans", sans-serif;
 }
+
+.library {
+    position: relative;
+    background-color: #121212;
+}
+
+.library span {
+    color: #b3b3b3;
+}
